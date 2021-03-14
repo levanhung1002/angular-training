@@ -12,7 +12,7 @@ export class UserProfile {
       name: "Le Van Hung",
       email: "Hung.levan@nashtechglobal.com",
       avatar:
-        "125501193_708928806422744_4661900962090475826_n.jpg"
+        "assets/125501193_708928806422744_4661900962090475826_n.jpg"
     };
   }
 }
