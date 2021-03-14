@@ -12,7 +12,7 @@ export class UserProfile {
       name: "Le Van Hung",
       email: "Hung.levan@nashtechglobal.com",
       avatar:
-        "https://github.com/levanhung1002/angular_training/blob/main/125501193_708928806422744_4661900962090475826_n.jpg?raw=true"
+        "125501193_708928806422744_4661900962090475826_n.jpg"
     };
   }
 }
